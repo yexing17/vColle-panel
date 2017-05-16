@@ -4,7 +4,7 @@
 > About US  
   HomePage：[Group221](http://hk.hisun.me/221/) 
 
-A practice that do a FE panel for SougouWechat crawler
+A FE panel for SougouWechat crawler
 
 ## Sample:
 
