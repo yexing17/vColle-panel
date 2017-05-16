@@ -2,7 +2,7 @@
 # vColle-panel
 
 > About US  
-  Blog：[Group221](http://hk.hisun.me/) 
+  HomePage：[Group221](http://hk.hisun.me/221/) 
 
 A practice that do a FE panel for SougouWechat crawler
 
