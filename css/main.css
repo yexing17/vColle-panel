@@ -1,0 +1,28 @@
+/**
+导航栏用户区
+ */
+#navbar-usercenter {
+    position: absolute;
+    top:7px;
+    right: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+
+}
+
+footer hr {
+    width: 100%;
+}
+
+footer p{
+    text-align: center;
+}
+
+
+
+.float-figure {
+    float: left;
+}
