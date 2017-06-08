@@ -20,12 +20,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">vCollections</a>
+                <a class="navbar-brand" href="index.php">vCollections</a>
             </div>
             <div class="collapse navbar-collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Today</a></li>
-                    <li><a href="#">Feel-lucky</a></li>
+                    <li><a href="index.php">Today</a></li>
+                    <li><a href="index.php">Feel-lucky</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             All-Subscriptions<b class="caret"></b>
@@ -54,14 +54,14 @@
             </div>
             <div class="collapse navbar-collapse pull-right" id="navbar-usercenter">
                 <div class="btn-group">
-                    <button type="button" class="btn btn-primary">UserName</button>
+                    <button type="button" class="btn btn-primary">User-Center</button>
                     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
                         <span class="caret"></span>
                         <span class="sr-only">Switch the Drop-down Men</span>
                     </button>
                     <ul class="dropdown-menu" role="menu">
-                        <li><a href="#">User-Center</a></li>
-                        <li><a href="#">Account-Information</a></li>
+                        <li><a href="register.php">Register</a></li>
+                        <li><a href="login.php">Login</a></li>
                         <li><a href="#">Setting</a></li>
                         <li class="divider"></li>
                         <li><a href="#">Logout</a></li>
